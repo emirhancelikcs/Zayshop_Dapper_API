@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZayShop_Dapper_Api", "ZayShop_Dapper_Api.csproj", "{D7EC5596-9203-4280-8CD6-F10C76FED88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZayShop_Dapper_Ui", "..\ZayShop_Dapper_Ui\ZayShop_Dapper_Ui.csproj", "{96130248-2DDB-4324-9B42-792C60CCC9C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EC5596-9203-4280-8CD6-F10C76FED88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EC5596-9203-4280-8CD6-F10C76FED88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EC5596-9203-4280-8CD6-F10C76FED88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EC5596-9203-4280-8CD6-F10C76FED88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96130248-2DDB-4324-9B42-792C60CCC9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96130248-2DDB-4324-9B42-792C60CCC9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96130248-2DDB-4324-9B42-792C60CCC9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96130248-2DDB-4324-9B42-792C60CCC9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAD52A9-C6AE-4BE5-A1D4-3AE2835BB82B}
+	EndGlobalSection
+EndGlobal

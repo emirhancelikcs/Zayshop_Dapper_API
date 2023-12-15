@@ -1,0 +1,6 @@
+@Zayshop_Dapper_HostAddress = http://localhost:5059
+
+GET {{Zayshop_Dapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
